@@ -1,1 +1,1 @@
-tv6tv6tv
+print("Hello, World!")
